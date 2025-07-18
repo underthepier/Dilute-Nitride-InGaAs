@@ -1,1 +1,1 @@
-Repo to store a GIF for my Linkedin profile
+Repo to host a GIF for my Linkedin profile
